@@ -43,7 +43,6 @@ class Parser
                     $day = new Day($dayNumber, explode(' ', $dayStatus));
                     $month->addDay($day);
                 }
-
             }
 
             $year->addMonth($month);

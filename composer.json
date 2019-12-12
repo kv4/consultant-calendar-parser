@@ -12,5 +12,9 @@
         "psr-0": {
             "": "src/"
         }
+    },
+    "require": {
+        "ext-simplexml": "*",
+        "ext-dom": "*"
     }
 }
