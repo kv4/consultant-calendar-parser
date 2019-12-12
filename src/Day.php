@@ -40,9 +40,4 @@ class Day
     {
         return in_array(self::WEEKEND, $this->status);
     }
-
-    public function date()
-    {
-        
-    }
 }
