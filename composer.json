@@ -2,7 +2,7 @@
     "name": "kv4/consultant-calendar-parser",
     "description": "Парсит производственный календарь",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Konstantin",
