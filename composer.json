@@ -1,12 +1,12 @@
 {
-    "name": "vladis84/consultant-calendar-parser",
+    "name": "kv4/consultant-calendar-parser",
     "description": "Парсит производственный календарь",
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
         {
-            "name": "Gordienko Vladislav",
-            "email": "gordienkovladis@gmail.com"
+            "name": "Konstantin",
+            "email": "chernyakov.k@gmail.com"
         }
     ],
     "autoload": {
