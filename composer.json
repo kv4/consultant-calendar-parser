@@ -3,6 +3,7 @@
     "description": "Парсит производственный календарь",
     "license": "MIT",
     "prefer-stable": true,
+    "type": "library",
     "authors": [
         {
             "name": "Konstantin",
