@@ -2,6 +2,7 @@
     "name": "vladis84/consultant-calendar-parser",
     "description": "Парсит производственный календарь",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Gordienko Vladislav",
